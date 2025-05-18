@@ -8,3 +8,5 @@
   * To perform the tasks commpletely and time efficiently. 
 
 I will be participating in following Activities in 100 Days of Code.
+
+* - Day 1: Solution for 3 consecutive odd numbers in C++
