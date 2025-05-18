@@ -10,3 +10,4 @@
 I will be participating in following Activities in 100 Days of Code.
 
 * - Day 1: Solution for 3 consecutive odd numbers in C++
+* - Day 2: Swapping Alternate Elements in an Array
