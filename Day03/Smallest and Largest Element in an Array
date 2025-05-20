@@ -1,0 +1,24 @@
+#include <iostream>
+#include <climits>
+using namespace std;
+
+// Program to find the smallest and largest element in an array
+int main() {
+    int A[] = {190, 90, 19, 1919, 800};
+    int size = sizeof(A) / sizeof(A[0]); // Dynamic size calculation
+
+    int smallest = INT_MAX;
+    int largest = INT_MIN;
+
+    // Traverse the array to find the smallest and largest element
+    for (int i = 0; i < size; i++) {
+        smallest = min(A[i], smallest);
+        largest = max(A[i], largest);
+    }
+
+    // Output the results
+    cout << "SMALLEST IS : " << smallest << endl;
+    cout << "LARGEST IS  : " << largest << endl;
+
+    return 0;
+}
