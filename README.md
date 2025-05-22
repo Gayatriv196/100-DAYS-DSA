@@ -13,3 +13,4 @@ I will be participating in following Activities in 100 Days of Code.
 * - Day 2: Swapping Alternate Elements in an Array.
 * - Day 3: Implementing linear search to find target element in an array.
 * - Day 4: Finding Smallest and Largest Element in an Array.
+* - Day 5: Solved Two Sum using hash map in C++
