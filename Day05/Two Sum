@@ -1,0 +1,21 @@
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> numIndexMap;  // Stores num -> index
+        
+        for (int i = 0; i < nums.size(); i++) {
+            int complement = target - nums[i];
+            
+            // Check if the complement is already in the map
+            if (numIndexMap.find(complement) != numIndexMap.end()) {
+                return {numIndexMap[complement], i};
+            }
+            
+            // Store the current number with its index
+            numIndexMap[nums[i]] = i;
+        }
+        
+        // This line should never be reached because the problem guarantees one solution
+        return {};
+    }
+};
