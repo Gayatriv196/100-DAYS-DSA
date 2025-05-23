@@ -1,5 +1,5 @@
 # INTRODUCTION
-* **Name**:V Gayatri
+* **Name**: V Gayatri
 * **EDUCATION**
   * B.TECH(Computer Science) from **Shri Shankaracharya Technical Campus (SSTC).**
 * **SKILLS**
