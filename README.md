@@ -16,4 +16,5 @@ I will be participating in following Activities in 100 Days of Code.
 * - Day 5: Solved Two Sum using hash map in C++.
 * - Day 6: Check if a number is a palindrome in C++.
 * - Day 7: Added C++ solution for "Power of Two" using bitwise approach.
+* - Day 8: Solved "Sort an Array of 0s, 1s & 2s" using Dutch National Flag Algorithm.
 
