@@ -17,6 +17,8 @@ I will be participating in following Activities in 100 Days of Code.
 * - Day 6: Check if a number is a palindrome in C++.
 * - Day 7: Added C++ solution for "Power of Two" using bitwise approach.
 * - Day 8: Solved "Sort an Array of 0s, 1s & 2s" using Dutch National Flag Algorithm.
-* - Day 9:  Added solution to-Find All Duplicates in an Array.
-* - Day 10:  Implemented solution for "Unique Number of Occurrences" using hashmap and hashset.
+* - Day 9: Added solution to-Find All Duplicates in an Array.
+* - Day 10: Implemented solution for "Unique Number of Occurrences" using hashmap and hashset.
+* - Day 11: Added Missing Numbers in C++ (set approach).
+* - Day 12: Reverse an array using two-pointer approach.
 
