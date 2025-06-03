@@ -21,4 +21,5 @@ I will be participating in following Activities in 100 Days of Code.
 * - Day 10: Implemented solution for "Unique Number of Occurrences" using hashmap and hashset.
 * - Day 11: Added Missing Numbers in C++ (set approach).
 * - Day 12: Reverse an array using two-pointer approach.
+* - Day 13:Second largest element solution added.
 
