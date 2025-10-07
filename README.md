@@ -24,5 +24,5 @@ I will be participating in following Activities in 100 Days of Code.
 * - Day 13 : Second largest element solution added.
 * - Day 14 : Sum of an array.
 * - Day 15 : Added function to find subarray with given sum using sliding window.
-
+--
 * - Day 16 : Remove Duplicates from Sorted Array.
