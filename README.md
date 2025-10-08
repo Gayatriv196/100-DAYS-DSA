@@ -26,4 +26,3 @@ I will be participating in following Activities in 100 Days of Code.
 * - Day 15 : Added function to find subarray with given sum using sliding window.
 * - --
 * - Day 16 : Remove Duplicates from Sorted Array.
-* - Day 17 : Remove Element.
